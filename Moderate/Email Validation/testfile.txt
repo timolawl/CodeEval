@@ -1,0 +1,8 @@
+this is not true
+foo@bar.com
+bob123@alice123.com
+bob@domain.eu
+hfij#kjdfvkl
+g@h@j.com
+
+<invalid>@foo.com 

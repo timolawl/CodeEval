@@ -1,0 +1,6 @@
+http://abc.com:80/~smith/home.html;http://ABC.com/%7Esmith/home.html
+http://abc.com:80/~smith/home.html;http://ABC.com:/%7esmith/home.html
+http://ABC.com/%7Esmith/home.html;http://ABC.com:/%7esmith/home.html
+HTTP://cnn.com;http://cnn.com
+http://cnn.com:80/index.html;http://cnn.com:6000/index.html
+http://cnn.com:80/path/index1.html;http://cnn.com:80/path/index2.html 

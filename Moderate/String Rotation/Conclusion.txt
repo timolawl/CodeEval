@@ -1,0 +1,3 @@
+Conclusion:
+
+getline - forloop > getline - strtok > fstream.get().
